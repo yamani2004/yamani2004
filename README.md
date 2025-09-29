@@ -1,31 +1,31 @@
-## Hi there 👋, I'm Sohaib Yamani
+## 👋 Hi, I'm Sohaib Yamani
+![Profile Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-<!--
-**yamani2004/yamani2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I'm a **B.Tech student in Electronics & Communication Engineering** at MNNIT Allahabad, passionate about **Web Development, DSA, and building full-stack apps**.
+
+---
 
 ### 🎓 Education
 - **Motilal Nehru National Institute of Technology Allahabad** (2022 - 2026)  
-  B.Tech in Electronics and Communication Engineering, CGPA: 8.81
-- **Dony Polo Public School** (2019 - 2021), CBSE, Percentage: 92.6%
-- **Nezamia Public School** (2018 - 2019), CBSE, Percentage: 94.4%
+  B.Tech in Electronics & Communication, CGPA: 8.81
+- **Dony Polo Public School** (2019 - 2021) — CBSE, 92.6%
+- **Nezamia Public School** (2018 - 2019) — CBSE, 94.4%
 
 ---
 
 ### 💻 Projects
 
 **1. [JobFinder](#)**  
-- MERN stack web app to find, post, and manage job listings.  
-- Features: Secure JWT authentication, job posting, application tracking, admin dashboard.  
-- Tools: React.js, Redux Toolkit, Tailwind CSS, Node.js, Express.js, JWT, MongoDB, Mongoose
+🚀 MERN stack web app for finding, posting, and managing job listings.  
+**Tech:** React.js, Redux Toolkit, Tailwind CSS, Node.js, Express.js, JWT, MongoDB, Mongoose  
 
 **2. [FileShare](#)**  
-- Secure file-sharing app with authentication, metadata extraction, and auto-expiry links.  
-- Tools: React.js, Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt, Cloudinary, Multer, TailwindCSS
+🔒 Secure file-sharing app with authentication, metadata extraction, and auto-expiry links.  
+**Tech:** React.js, Node.js, Express.js, MongoDB, JWT, bcrypt, Cloudinary, Multer, TailwindCSS  
 
 ---
 
-### 🛠 Skills & Tools
+### 🛠 Tech Stack
 
 **Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
@@ -50,6 +50,13 @@
 
 ---
 
+### 📊 GitHub Stats
+![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamani2004&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yamani2004&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yamani2004&theme=radical)
+
+---
+
 ### 🏆 Achievements
 - Participated in **HackVega 2025**  
 - Participated in **CodeSangam 2023**  
@@ -57,12 +64,12 @@
 
 ---
 
-### 📊 GitHub Stats
-![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamani2004&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yamani2004&layout=compact&theme=radical)
+### 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SohaibYamani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-yamani2004-181717?style=for-the-badge&logo=github&logoColor=white)]
 
 ---
 
-### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SohaibYamani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaib-yamani-5b352a269/)
-[![GitHub](https://img.shields.io/badge/GitHub-yamani2004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yamani2004)
+### ⚡ Fun Fact
+- I love turning ideas into **full-stack apps** and exploring **new tech stacks**.  
+- Coffee & code enthusiast ☕💻
