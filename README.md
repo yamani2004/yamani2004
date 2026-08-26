@@ -6,7 +6,7 @@ I build scalable, production-grade backend systems and real-time full-stack appl
 
 📫 yamanisohaib477@gmail.com &nbsp;|&nbsp; 📱 +91-6200919931 &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/sohaib-yamani-5b352a269/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/yamani2004)
 
-🧩 **LeetCode:** 940+ solved · Rating 1637 (Top 20%) &nbsp;|&nbsp; **CodeChef:** Rating 1599 &nbsp;|&nbsp; **Codeforces:** Active
+🧩 **LeetCode:** 940+ solved · Rating 1637 (Top 19%) &nbsp;|&nbsp; **CodeChef:** Rating 1616 &nbsp;|&nbsp; **Codeforces:** Active
 
 ---
 
